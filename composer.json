@@ -18,5 +18,6 @@
     "expresser/support": "dev-master",
     "expresser/taxonomy": "dev-master",
     "expresser/user": "dev-master"
-  }
+  },
+  "minimum-stability": "dev"
 }
