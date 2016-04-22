@@ -1,0 +1,22 @@
+{
+  "name": "expresser/expresser",
+  "support": {
+    "issues": "https://github.com/expresser/expresser/issues",
+    "source": "https://github.com/expresser/expresser"
+  },
+  "authors": [
+    {
+      "name": "Graham Blevins",
+      "email": "hgblevins@gmail.com"
+    }
+  ],
+  "require": {
+    "expresser/database": "dev-master",
+    "expresser/option": "dev-master",
+    "expresser/posttype": "dev-master",
+    "expresser/role": "dev-master",
+    "expresser/support": "dev-master",
+    "expresser/taxonomy": "dev-master",
+    "expresser/user": "dev-master"
+  }
+}
