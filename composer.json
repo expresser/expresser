@@ -11,13 +11,13 @@
     }
   ],
   "require": {
-    "expresser/database": "dev-master",
-    "expresser/option": "dev-master",
-    "expresser/posttype": "dev-master",
-    "expresser/role": "dev-master",
-    "expresser/support": "dev-master",
-    "expresser/taxonomy": "dev-master",
-    "expresser/user": "dev-master"
+    "expresser/database": "0.1.0",
+    "expresser/option": "0.1.0",
+    "expresser/posttype": "0.1.0",
+    "expresser/role": "0.1.0",
+    "expresser/support": "0.1.0",
+    "expresser/taxonomy": "0.1.0",
+    "expresser/user": "0.1.0"
   },
   "minimum-stability": "dev"
 }
