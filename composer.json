@@ -11,13 +11,13 @@
     }
   ],
   "require": {
-    "expresser/database": "0.1.2",
-    "expresser/option": "0.1.2",
-    "expresser/posttype": "0.1.2",
-    "expresser/role": "0.1.2",
-    "expresser/support": "0.1.2",
-    "expresser/taxonomy": "0.1.2",
-    "expresser/user": "0.1.2"
+    "expresser/database": "0.1.3",
+    "expresser/option": "0.1.3",
+    "expresser/posttype": "0.1.3",
+    "expresser/role": "0.1.3",
+    "expresser/support": "0.1.3",
+    "expresser/taxonomy": "0.1.3",
+    "expresser/user": "0.1.3"
   },
   "minimum-stability": "dev"
 }
