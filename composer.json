@@ -11,14 +11,15 @@
     }
   ],
   "require": {
-    "expresser/contracts": "0.1.25",
-    "expresser/database": "0.1.25",
-    "expresser/option": "0.1.25",
-    "expresser/posttype": "0.1.25",
-    "expresser/role": "0.1.25",
-    "expresser/support": "0.1.25",
-    "expresser/taxonomy": "0.1.25",
-    "expresser/user": "0.1.25"
+    "expresser/contracts": "0.1.26",
+    "expresser/database": "0.1.26",
+    "expresser/option": "0.1.26",
+    "expresser/posttype": "0.1.26",
+    "expresser/role": "0.1.26",
+    "expresser/site": "0.1.26",
+    "expresser/support": "0.1.26",
+    "expresser/taxonomy": "0.1.26",
+    "expresser/user": "0.1.26"
   },
   "minimum-stability": "dev"
 }
