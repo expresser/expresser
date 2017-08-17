@@ -1,6 +1,6 @@
 # Expresser
 
-Making WordPress expressive.
+Expressive syntax and utility libraries for WordPress.
 
 ## About
 
